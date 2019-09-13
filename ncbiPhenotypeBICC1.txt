@@ -1,0 +1,1 @@
+This gene encodes an RNA-binding protein that is active in regulating gene expression by modulating protein translation during embryonic development. Mouse studies identified the corresponding protein to be under strict control during cell differentiation and to be a maternally provided gene product. [provided by RefSeq, Apr 2009]
